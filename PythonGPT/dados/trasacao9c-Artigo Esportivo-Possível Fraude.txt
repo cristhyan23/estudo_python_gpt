@@ -1,0 +1,11 @@
+Recomendação Técnica:
+
+1) Notificar Cliente: Uma notificação imediata deve ser enviada ao cliente, informando-o sobre a transação potencialmente fraudulenta. Ele deve ser solicitado para verificar se a transação foi feita por ele ou não.
+
+2) Acionar Setor Anti-Fraude: A transação foi marcada como 'Possível Fraude'. Portanto, é pertinente que o setor Anti-Fraude seja acionado imediatamente.
+
+3) Realizar Verificação Manual: Uma verificação manual da transação e das atividades recentes da conta deve ser efetuada para identificar qualquer irregularidade e confirmar ou negar a suspeita de fraude.
+
+Classificação de Fraude Aplicada:
+
+A classificação possível pode ser 'Fraude de Cartão de Crédito', dada a natureza da transação sendo de crédito, o valor alto e a marcação como 'Possível Fraude'. Mais investigação é necessária para confirmar esta classificação.
